@@ -1,0 +1,6 @@
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\bin\ClassesTypeScript.dll.config
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\bin\ClassesTypeScript.dll
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\bin\ClassesTypeScript.pdb
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\obj\Debug\ClassesTypeScript.csprojResolveAssemblyReference.cache
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\obj\Debug\ClassesTypeScript.dll
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\obj\Debug\ClassesTypeScript.pdb

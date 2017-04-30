@@ -1,0 +1,2 @@
+C:\Users\girid\Desktop\UTD\Projects\TypeScriptDemo\TypeScriptDemo\Scripts\Main.js
+C:\Users\girid\Desktop\UTD\Projects\TypeScriptDemo\TypeScriptDemo\Scripts\Main.js.map

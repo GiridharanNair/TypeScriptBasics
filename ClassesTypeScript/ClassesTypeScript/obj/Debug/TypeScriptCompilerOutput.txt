@@ -1,0 +1,10 @@
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Car.js
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Car.js.map
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Calculator.js
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Calculator.js.map
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Car.js
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Car.js.map
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Calculator.js
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Calculator.js.map
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Car.js
+C:\Users\girid\Desktop\UTD\Projects\ClassesTypeScript\ClassesTypeScript\Car.js.map
